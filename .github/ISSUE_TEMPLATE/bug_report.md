@@ -17,14 +17,14 @@ Steps to reproduce the behavior(Example):
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behavior:**
 A clear and concise description of what you expected to happen.
 
-**What Happened**
+**What Happened:**
 Briefly Describe the Bug so people know what to look for.
 
-**Screenshots or Videos**
+**Screenshots or Videos:**
 If applicable, add screenshots or videos to help explain your problem.
 
-**Additional context**
+**Additional context:**
 Add any other context about the problem here.
